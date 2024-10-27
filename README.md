@@ -96,4 +96,4 @@ npm start
 ## [更新内容](https://github.com/wes-lin/Cloud189Checkin/wiki/更新内容)
 
 ## 本条信息用于更新提交，以避免GitHub的60天限制
--> 2024/10/27更新本条提交。
+- 2024/10/27更新本条提交。
